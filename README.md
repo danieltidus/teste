@@ -1,2 +1,2 @@
-# teste
-Apenas um repositório teste
+# Just a Readme file
+Just a repositiry test.
